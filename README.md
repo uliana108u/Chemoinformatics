@@ -1,1 +1,1 @@
-# Chemoinformatics
+# KAIST Chemoinformatics course 2022
